@@ -6,5 +6,5 @@ STEPS TO USE
   'https://commondatastorage.googleapis.com/books1000/notMNIST_large.tar.gz'
   'https://commondatastorage.googleapis.com/books1000/notMNIST_small.tar.gz'
   
-2> Run main.ipynb
+2> Run main.ipynb<br>
 3> Run classifier.ipynb
